@@ -23,7 +23,3 @@ The goal of this project is to explore data analysis and visualization technique
 1. **Clone this repository**: Get all the code for yourself and bring it to your own computer.
 2. **Install Dependencies**: Make sure you have all the necessary libraries installed. Just run `pip install -r requirements.txt`.
 3. **Explore the Notebooks**: Take a look at the included Jupyter notebooks for examples of how to use these libraries as well as imagery for the graphs!
-
-## Contributions 🤝
-
-Contributions are welcome! If you find any issues or have any suggestions for improvement, just open an issue or send a pull request.
