@@ -11,6 +11,7 @@ The goal of this project is to explore data analysis and visualization technique
 - **mplfinance**: For those who enjoy financial analysis, this library is top-notch.
 - **yfinance**: To fetch data from the Yahoo Finance API. Very useful for those who are into the stock market.
 - **Plotly**: For creating interactive and stylish graphics.
+- **Prophet**: Used for predicting data based on a given dataframe.
 
 ## Features 💭
 
