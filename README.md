@@ -11,5 +11,7 @@ The main objective of this repository is to explore the capabilities of Python i
 
 ## Features 🚀
 
+- **Excel**: Spreadsheet used as a local database, containing the info used for the graphics generation.
+- **Google Colab**: A cloud-based platform for writing, running, and sharing Python code, serving as an easy way to generate the intended graphs.
 - **Pandas**: A versatile library for data manipulation and analysis, indispensable for any data-related task in Python.
 - **Plotly**: This library offers a wide range of visualization options, allowing us to create static and interactive graphics that effectively communicate insights from the data.
